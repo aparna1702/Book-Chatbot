@@ -1,7 +1,7 @@
 # CLOUD PERFOMANCE & TUNING
 ## BookBuddy
 ### Book reccomendation system 
-Welcome to BookBuddy, a collaborative filtering and popularity based book reccomendation website.
+Welcome to BookBuddy, a collaborative filtering and popularity based book reccomendation chatbot.
 
 ### Table of Contents
 * Introduction
@@ -34,7 +34,7 @@ Before using this system, you'll need:
 * numpy
 * pandas
 * html
-* bootstrap
+* css
 
 ### Deployment
 You can deploy this code on Azure as a web application or service for wider accessibility.
