@@ -1,6 +1,6 @@
 # CLOUD PERFOMANCE & TUNING
 ## BookBuddy
-### Book reccomendation system 
+### Book reccomendation chatbot 
 Welcome to BookBuddy, a collaborative filtering and popularity based book reccomendation chatbot.
 
 ### Table of Contents
